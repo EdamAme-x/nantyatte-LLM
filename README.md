@@ -1,0 +1,2 @@
+# nantyatte-LLM
+なんちゃって AI
